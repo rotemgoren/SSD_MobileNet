@@ -1,0 +1,12 @@
+{
+    "batch_size": 64,
+    "n_epochs": 1000,
+    "lr": 1e-4,
+    "weight_decay": 5e-4,
+    "use_cuda": true,
+    "data_folder": "dataset",
+    "voc07_path" : "D:\\RDD2020_data\\RDD2020_data\\",
+    "voc12_path" : "None",
+    "backbone_network" : "MobileNetV2"
+}
+
