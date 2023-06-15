@@ -1,10 +1,6 @@
 #!/usr/bin/env python2
 # -*- coding: utf-8 -*-
-"""
-Created on Sat Jun  9 15:45:16 2019
 
-@author: viswanatha
-"""
 from torchvision import transforms
 from utils import *
 from PIL import Image, ImageDraw, ImageFont
