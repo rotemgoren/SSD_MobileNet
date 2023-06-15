@@ -1,11 +1,7 @@
 
 # !/usr/bin/env python2
 # -*- coding: utf-8 -*-
-"""
-Created on Sat Jun  10 15:45:16 2019
 
-@author: viswanatha
-"""
 import time
 import torch.backends.cudnn as cudnn
 import torch.optim
